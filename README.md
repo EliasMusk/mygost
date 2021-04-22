@@ -5,11 +5,6 @@
 2. 感谢 @风萧萧兮易水寒 大佬的原始脚本，项目地址`https://www.fiisi.com/?p=125` 
 3. 感谢 @ STSDUST 提供的EasyGost脚本（已删库），此脚本是基于其进行修改增强
 ***
-## 简介
-
-> 项目地址及帮助文档:  
-> https://github.com/KANIKIG/Multi-EasyGost
-***
 ## 脚本
 
 * 启动脚本  
